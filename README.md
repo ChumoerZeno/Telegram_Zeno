@@ -22,3 +22,8 @@ MTProto protocol manuals: https://core.telegram.org/mtproto
 
 你还可以在Telegram里关注[我们频道](https://t.me/CMissue/124)，然后找到你需要的语言包，最后使用它。
 - You can also follow our channel in Telegram, then find the language pack you need and finally use it.
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chumoew/Telegram_Zeno&type=Date)](https://star-history.com/#chumoew/Telegram_Zeno&Date)
